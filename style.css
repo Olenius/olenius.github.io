@@ -53,3 +53,15 @@ h2 {
     margin-top: 5px;
     margin-bottom: 10px;
 }
+
+.icon {
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+}
+
+
+.contact {
+    display: flex;
+    margin-bottom: 10px;
+}
