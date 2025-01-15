@@ -19,7 +19,7 @@
 }
 
 .title {
-    padding-right: 30%;
+    padding-right: 15%;
 }
 
 .line-description {
@@ -41,7 +41,7 @@ hr {
     border-style: dashed;
     border-width: 1px;
     margin-left: 100px;
-    margin-right: 0px;
+    margin-right: 0;
 }
 
 h3, h2 {
